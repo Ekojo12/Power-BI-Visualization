@@ -66,7 +66,7 @@ From the analysis of the data and charts created, the following were the results
 6.  The region with the highest revenue is North East and the region with the highest ROI is North West
 
 Sample Page of the visualization
-![PowerBI visuals](https://github.com/user-attachments/assets/1b4c8ea7-773f-430c-a435-94b12a63d00c)
+- ![PowerBI visuals](https://github.com/user-attachments/assets/1b4c8ea7-773f-430c-a435-94b12a63d00c)
 
 
 
