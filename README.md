@@ -1,5 +1,6 @@
 # Power-BI-Visualization
-This is a repository for my data analysis project while learning at SkilHarvest, where I used Power BI for data visualization.
+This is a repository for my data analysis project while learning at SkilHarvest,
+where I used Power BI for data visualization.
 
 ## Outline
 ## [Project Overview](#project-overview)
@@ -18,13 +19,13 @@ An assignment on Data visualization using Power BI.
 ### Data Sources
 ---
 The data used for this assignment was shared by the facilator for Data Analysis class in SkilHarvest.
-It is an excel file comprsing of 30,800 columns and 10 rows.
+- It is an excel file comprsing of 30,800 columns and 10 rows.
 
 ### Tools Used
 ---
-Power BI
-This was the tool used for transformation and loading of data
-It was also used to generate the visuals
+-Power BI
+1. This was the tool used for transformation and loading of data.
+2. It was also used to generate the visuals
 
 ### Data Cleaning and Preparation
 ---
