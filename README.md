@@ -1,7 +1,7 @@
 # Power-BI-Visualization
 This is a repository for my data analysis project while learning at SkilHarvest, where I used Power BI for data visualization.
 
-##Outline
+## Outline
 ## [Project Overview](#project-overview)
 ## [Data Sources](#data-sources)
 ## [Tools Used](#tools-used)
@@ -65,7 +65,8 @@ From the analysis of the data and charts created, the following were the results
 6.  The region with the highest revenue is North East and the region with the highest ROI is North West
 
 Sample Page of the visualization
-      ![PowerBI visuals](https://github.com/user-attachments/assets/a88d96f7-632b-44ff-acf4-bada8c932e11)
+
+![Uploading PowerBI visuals.jpeg…]()
 
 
 
