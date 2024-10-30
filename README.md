@@ -8,7 +8,7 @@ where I used Power BI for data visualization.
 ## [Tools Used](#tools-used)
 ## [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 ## [Data Analysis](#data-analysis)
-## [Results/Insights](#Results/Insights)
+## [Results](#results)
 
 ### Project Overview
 ---
@@ -19,7 +19,7 @@ An assignment on Data visualization using Power BI.
 ### Data Sources
 ---
 The data used for this assignment was shared by the facilator for Data Analysis class in SkilHarvest.
-- It is an excel file comprsing of 30,800 columns and 10 rows.
+- It is an excel file comprising of 30,800 columns and 10 rows.
 
 ### Tools Used
 ---
@@ -29,9 +29,10 @@ The data used for this assignment was shared by the facilator for Data Analysis 
 
 ### Data Cleaning and Preparation
 ---
-The data was imported into Power BI where it was transformed and loaded. 
-The necessary cleaning was made, Expansion of columns and Removing of Duplicates.
-The data was then used for the visualizations;
+- The data was imported into Power BI where it was transformed and loaded. 
+- The necessary cleaning was made, Expansion of columns.
+- Extra colums were added using conditional column and calculated columns
+- The data was then used for the visualizations of;
 1. Bar Charts
 2. Cards
 3. Pie Chart
@@ -56,14 +57,14 @@ Region Number was also calculated, using conditional column, where each region w
 6. North West = 6
 
 
-### Results/Insights
+### Results
 From the analysis of the data and charts created, the following were the results;
 1. Total Revenue amounted to 73bn
 2. Total number of stores is 132
 3. Total number of markets is 30,800
 4. Sum of Units sold is 787k
 5. The line of business with the highest revenue is Service Plan at 56bn, while the lowest is printer sales at 6bn.
-6.  The region with the highest revenue is North East and the region with the highest ROI is North West
+6. The region with the highest revenue is North East and the region with the highest ROI is North West
 
 Sample Page of the visualization
 - ![PowerBI visuals](https://github.com/user-attachments/assets/1b4c8ea7-773f-430c-a435-94b12a63d00c)
